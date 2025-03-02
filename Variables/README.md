@@ -1,4 +1,4 @@
-Les variables jouent un rôle crucial dans la flexibilité etla réutilisation d'un code ou d'un programme.
+Les variables jouent un rôle crucial dans la flexibilité et la réutilisation d'un code ou d'un programme.
 
 Nous allons expliquer les différentes façons de définir et d'utiliser les variables dans Terraform.
 
