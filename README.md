@@ -4,7 +4,7 @@ Dans Terraform, vous pouvez simplement utiliser le mot-clé **Output** pour impr
 
 Voici la syntaxe de la variable de sortie.
 
-output "NOM_DE_VOTRE_VARIABLE" {
+output "NOM_DE_VOTRE_VARIABLE" {    
     value = "Valeur que vous voulez retourner"
 }
 
