@@ -8,7 +8,7 @@ variable "NOM_DE_VOTRE_VARIABLE" {
   default = "Valeur que vous voulez injecter dans le code"    
   }
 
-Exemple:
+Exemple:     
 variable "instance_type" {     
   description = "Type of EC2 instance"    
   type        = string    
