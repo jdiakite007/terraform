@@ -1,0 +1,1 @@
+Dans l'exemple de code ci-dessous, nous allons mettre en place un projet pour faire tourner une instance EC2 et apprendre à déclarer et gérer des variables pour elle. Il y a des snippets de code ainsi que du code de dépôt git pour se référer à chaque étape.
